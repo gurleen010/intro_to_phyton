@@ -24,15 +24,6 @@ enter the value of z 45
 >>> print (x)
 25
 
-Q.4- Print “Let’s get started” on screen.
->>> print("Let’s get started")
-Let’s get started
->>> print(y)
-31
->>> print(z)
-45
->>> print (x)
-25
 
 Q.4- Print “Let’s get started” on screen.
 >>> print("Let’s get started")
